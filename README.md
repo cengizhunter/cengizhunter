@@ -7,7 +7,7 @@
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11178271539&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=11178271539&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11178271539&cover_image=true&theme=novatorem)](https://open.spotify.com/user/11178271539)
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
