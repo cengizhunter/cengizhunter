@@ -7,7 +7,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11178271539&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/11178271539)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11178271539&cover_image=true&theme=default)]
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
