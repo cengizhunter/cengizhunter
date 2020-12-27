@@ -2,7 +2,7 @@
 ## I'm a Geomatics Engineering Student at Istanbul Technical University.
 
 - 🌱 I’m currently learning python and javascript
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2021 Goals: Contribute to Open Source projects 
 - ⚡ I create music videos for the movies which I like
 
 ### Spotify Playing 🎧
