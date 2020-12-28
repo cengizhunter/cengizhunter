@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning python and javascript
 - 🥅 2021 Goals: Contribute to Open Source projects about deep learning & remote sensing
-- ⚡ I create music videos for the movies which I like
+- ⚡ I also create music videos for the movies which I like
 
 ### Spotify Playing 🎧
 
