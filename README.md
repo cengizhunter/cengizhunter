@@ -1,4 +1,4 @@
-### Hi there, I'm Cengiz - aka [sparklehorse] 👋
+### Hi there, I'm Cengiz - aka [sparklehorse] 👋:unicorn:
 ## I'm a Geomatics Engineering Student at Istanbul Technical University.
 
 - 🌱 I’m currently learning python and javascript
