@@ -1,9 +1,9 @@
-### Hi there, I'm Cengiz - aka *sparklerated* :unicorn:
+### Hi there, I'm Cengiz - aka *sparklerated* 
 ## I'm a Geomatics Engineering Student at Istanbul Technical University.
 
 - 🌱 I’m currently learning python and javascript
 - ⚡ I also create music videos for the movies which I like
-- 🥅 2021 Goals: Contribute to Open Source projects about deep learning & remote sensing
+- :unicorn: 2021 Goals: Contribute to Open Source projects about deep learning & remote sensing
 
 
 ### Spotify Playing 🎧
