@@ -16,9 +16,8 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 <br />
 
-
+[linkedin]: https://www.linkedin.com/in/cengiz-avc%C4%B1-749079150/ 
 [twitter]: https://twitter.com/cengiz_hunter
 [youtube]: https://www.youtube.com/sparklerated
-[linkedin]: https://www.linkedin.com/in/cengiz-avc%C4%B1-749079150/ 
 [spotify]: https://open.spotify.com/user/11178271539
-[steam]: https://steamcommunity.com/id/Sparklehorse33/
+
