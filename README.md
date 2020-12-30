@@ -2,8 +2,9 @@
 ## I'm a Geomatics Engineering Student at Istanbul Technical University.
 
 - 🌱 I’m currently learning python and javascript
-- 🥅 2021 Goals: Contribute to Open Source projects about deep learning & remote sensing
 - ⚡ I also create music videos for the movies which I like
+- 🥅 2021 Goals: Contribute to Open Source projects about deep learning & remote sensing
+
 
 ### Spotify Playing 🎧
 
