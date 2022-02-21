@@ -1,5 +1,5 @@
 ### Hi there, I'm Cengiz - aka *sparklerated* 
-## I'm a Geomatics Engineering Student at Istanbul Technical University.
+## I'm a MSc student at Istanbul Technical University. (satellite communication and remote sensing)
 
 - 🌱 I’m currently learning python and javascript
 - ⚡ I also create music videos for the movies which I like
