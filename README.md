@@ -1,7 +1,7 @@
 ### Hi there, I'm Cengiz - aka *sparklerated* 
 ##  MSc Satellite Communication and Remote Sensing at Istanbul Technical University
 ##  Research Asssistant at Koç University (Urban Occupations Project)
-    
+[My CV]:https://drive.google.com/uc?id=13dFapnO0wZ1V5Pa6RvLzz4enFDjvs3P_&export=download
 
 - 🌱 I’m currently learning python and javascript
 - ⚡ I also create music videos for the movies which I like
