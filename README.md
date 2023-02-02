@@ -3,9 +3,7 @@
 ##  Research Asssistant at Koç University (Urban Occupations Project)
 [My CV](https://drive.google.com/file/d/1sMdRKHw9M1luluKzgTtbrjiIeRNUbweY/view)
 
-- 🌱 I’m currently learning python and javascript
-- ⚡ I also create music videos for the movies which I like
-- :unicorn: 2022 Goals: Contribute to Open Source projects about climate change, deep learning and remote sensing ^^
+- :unicorn: 2023 Goals: Contribute to Open Source projects about climate change, deep learning and remote sensing ^^
 
 
 ### Spotify Playing 🎧
