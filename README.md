@@ -3,7 +3,7 @@
 ##  Research Asssistant at Koç University (Urban Occupations Project)
 [My CV](https://drive.google.com/file/d/1sMdRKHw9M1luluKzgTtbrjiIeRNUbweY/view)
 
-- :unicorn: 2023 Goals: Contribute to Open Source projects about climate change, deep learning and remote sensing ^^
+- :unicorn:  my research topics are climate change, deep learning, computer vision and remote sensing (my work mail: avcice16@itu.edu.tr)
 
 
 ### Spotify Playing 🎧
