@@ -20,6 +20,4 @@
 [linkedin]: https://www.linkedin.com/in/cengiz-avc%C4%B1-749079150/ 
 [twitter]: https://twitter.com/cengiz_hunter
 [youtube]: https://www.youtube.com/sparklerated
-[spotify]: https://open.spotify.com/user/11178271539
-[steam]: https://steamcommunity.com/id/Sparklehorse33/
- 
+
