@@ -1,7 +1,7 @@
 ### Hi there, I'm Cengiz - aka *sparklerated* 
 ##  MSc Satellite Communication and Remote Sensing at Istanbul Technical University
 ##  Research Asssistant at Koç University (Urban Occupations Project)
-[My CV](https://drive.google.com/file/d/1sMdRKHw9M1luluKzgTtbrjiIeRNUbweY/view)
+[My CV](https://drive.google.com/drive/u/0/folders/1RXSNdAY0FzgV9gPEAhAfMY75Byy_C5u6)
 
 - :unicorn:  my research topics are climate change, deep learning, computer vision and remote sensing (my work mail: avcice16@itu.edu.tr)
 
