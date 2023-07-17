@@ -1,4 +1,4 @@
-### Hi there, I'm Cengiz - aka *sparklerated* 
+### Hi there, I'm Cengiz
 
 
 
