@@ -6,7 +6,7 @@
 - MSc Satellite Communication and Remote Sensing at Istanbul Technical University
 - Past Research Asssistant at Koç University (Urban Occupations Project)
 - Now I am working at agri-tech company Doktar, as a geospatial data scientist on topics such as agriculutral field boundary extraction and big geospatial data & crop classifications.
-- :unicorn:  my research topics are climate change, deep learning, computer vision and remote sensing (my work mail: avcice16@itu.edu.tr)
+- my research topics are climate change, deep learning, computer vision and remote sensing (my work mail: avcice16@itu.edu.tr)
 
 
 ### Spotify Playing 🎧
